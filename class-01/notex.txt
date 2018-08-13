@@ -1,0 +1,27 @@
+Server side
+    Amazon
+    Google
+Client side
+    Browser (chrome)
+    HTML
+        Know / Content
+    CSS
+        Beauty / Make up
+        3 ways to use it
+            Inside the element
+            Inside the page
+            Outside the page / separate file
+        Libs
+            Bootstrap
+    JS
+        Behaviour
+        3 ways to use it
+            Inside the element
+            Inside the page
+            Outside the page / separate file
+        Libs
+            jQuery
+            Angular
+            React
+            Meteor
+            Vue
